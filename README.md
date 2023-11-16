@@ -1,6 +1,10 @@
 # Artistic Image Generation with Diffusion Models
 
 ![Generated Artwork](artwork0.png)
+![Generated Artwork](artwork1.png)
+![Generated Artwork](artwork2.png)
+![Generated Artwork](artwork3.png)
+![Generated Artwork](artwork4.png)
 
 ## Overview
 
